@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="General">
+  <setting label="Account" type="lsep"/>
+  <setting label="email" type="text"   id="email" default=""/>
+  <setting label="paswword" type="text"   id="password" option="hidden"  enable="!eq(-1,)" default=""/>
+  </category>
+  <category label="Video">
+  <setting label="Resolution" type="enum" id="resolution" values="270p|360p|480p|720p|1080p" default="720p"/>
+  </category>
+</settings>

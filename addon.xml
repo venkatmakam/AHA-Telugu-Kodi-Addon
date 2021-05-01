@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ahatelugu"
+version="1.0.0"
+name="AHA Telugu"
+provider-name="venkatmakam">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.requests" version="2.7.0"/>
+  <import addon="script.module.pyjwt"/>
+  <import addon="script.module.routing" version="0.2.0"/>
+  <import addon="script.module.simplejson" version="3.3.0"/>
+	<import addon="script.module.codequick" version="0.9.10"/>
+	<import addon="script.module.inputstreamhelper" version="0.5.2"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">AHA Telugu</summary>
+  <description lang="en_GB">AHA Telugu video content provided by www.aha.video</description>
+  <disclaimer lang="en_GB">Videos are provided by www.aha.video.You require premium account to access the content</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources\screenshot_1.jpg</screenshot>
+    <screenshot>resources\screenshot_2.jpg</screenshot>
+    <screenshot>resources\screenshot_3.jpg</screenshot>    
+  </assets>
+  <news>Updated with latest artwork metadata</news>
+</extension>
+</addon>
