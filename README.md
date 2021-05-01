@@ -7,7 +7,7 @@
 ![S2](https://github.com/venkatmakam/plugin.video.ahatelugu/raw/master/resources/screenshot_2.jpg)
 ![S3](https://github.com/venkatmakam/plugin.video.ahatelugu/raw/master/resources/screenshot_3.jpg)
 
-# Download Latest Version
+# Download
 * [Kodi 18](https://github.com/venkatmakam/plugin.video.ahatelugu/releases/download/v1.0.0/plugin.video.ahatelugu.zip)
 * [Kodi 19 Matrix](https://github.com/venkatmakam/plugin.video.ahatelugu/releases/download/v1.0.0/plugin.video.ahatelugu-matrix.zip)
     
