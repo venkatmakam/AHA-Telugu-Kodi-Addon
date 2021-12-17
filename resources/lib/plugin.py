@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# Module: default
-# Author: Roman V. M.
-# Created on: 28.11.2014
-# License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
-
 import sys
 from sys import version_info
 if version_info[0] < 3:
